@@ -1,5 +1,4 @@
-
-![i-have-the-data-data](https://github.com/Amell88/House-price-prediction/assets/121213708/4e8f04ac-445b-4932-97a1-b4c2ac34e0a7)
+<img src="https://github.com/Amell88/House-price-prediction/blob/main/assets/121213708/4e8f04ac-445b-4932-97a1-b4c2ac34e0a7.gif" alt="Data GIF" style="width: 100%; height: 25%;">
 # Home Price Estimation Model 🏠💰
 ## Overview
 Welcome to the Home Price Estimation Model, your go-to tool for accurate and data-driven home price predictions. Whether you're a homeowner looking to sell your property or a real estate agent striving for competitive pricing strategies, this model is here to empower you with actionable insights. 🚀
