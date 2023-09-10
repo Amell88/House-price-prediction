@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/Amell88/House-price-prediction/assets/121213708/757396fc-27fd-4d59-9b15-ac9e64183ea6" width="100%">
 </div>
-#Home Price Estimation Model 🏠💰
+# Home Price Estimation Model 🏠💰
 
 ## Overview
 Welcome to the Home Price Estimation Model, your go-to tool for accurate and data-driven home price predictions. Whether you're a homeowner looking to sell your property or a real estate agent striving for competitive pricing strategies, this model is here to empower you with actionable insights. 🚀
