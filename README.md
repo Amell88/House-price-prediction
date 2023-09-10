@@ -2,7 +2,8 @@
   <img src="https://github.com/Amell88/House-price-prediction/assets/121213708/757396fc-27fd-4d59-9b15-ac9e64183ea6" width="100%">
 </div>
 
-<img src="https://github.com/Amell88/Microsoft-Movies/assets/121213708/adf60dbf-fe5d-4276-8c12-fb18737d4962" alt="Fireworks" style="float: left; margin-right: 20px; width: 24px; height: 24px; border-radius: 50%;" /> # Home Price Estimation Model 🏠💰
+<img src="https://github.com/Amell88/Microsoft-Movies/assets/121213708/adf60dbf-fe5d-4276-8c12-fb18737d4962" alt="Fireworks" style="float: left; margin-right: 20px; width: 24px; height: 24px; border-radius: 50%;" /> 
+# Home Price Estimation Model 🏠💰
 ## Overview
 Welcome to the Home Price Estimation Model, your go-to tool for accurate and data-driven home price predictions. Whether you're a homeowner looking to sell your property or a real estate agent striving for competitive pricing strategies, this model is here to empower you with actionable insights. 🚀
 
