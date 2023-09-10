@@ -2,7 +2,6 @@
   <img src="https://github.com/Amell88/House-price-prediction/assets/121213708/dcea653e-7782-44c8-8f46-9193790b5a9d.png" width="100%">
 </div>
 
-
 # Home Price Estimation Model 🏠💰
 
 ## Overview
@@ -20,6 +19,8 @@ Setting the right price for your home can be a challenging task. Overpricing may
 ## Data Sources 📊
 Our model has been painstakingly trained on a diversified dataset of real estate transactions, guaranteeing that it can deliver reliable estimates across a wide range of property kinds and locations.
 
+## Presentation slides 
+https://prezi.com/view/ty5DTK1wD7QyTOdtUpS1/
 
 ## Objectives 🎯
 Our core objectives include:
