@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Amell88/House-price-prediction/assets/121213708/43c7fe57-113e-41b0-b070-28c1d846bcb8" width="100%">
+  <img src="https://github.com/Amell88/House-price-prediction/assets/121213708/1d618bb9-3542-4799-bd78-f3f0d0305738" width="100%">
 </div>
 
 # Home Price Estimation Model 🏠💰
