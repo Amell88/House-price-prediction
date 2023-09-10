@@ -33,7 +33,9 @@ Our process includes the following steps:
 4. **Model Selection:** To construct the prediction model, we used advanced machine learning approaches, fine-tuning algorithms for best performance.
 5. **Model Testing:** Extensive testing and validation were carried out to assure the accuracy and dependability of the model.
 
-![Screenshot (2)](https://github.com/Amell88/House-price-prediction/assets/121213708/57d61689-097c-4960-a645-e8df7dbab678)
+![Screenshot (2)](https://github.com/Amell88/House-price-prediction/assets/121213708/9196a4c5-35e6-4655-b456-2d68286627ca)
+
+
 ## Findings 🔍
 Based on our findings, our predictive model produced the following outcomes:
 - 0.64438400677586 R-squared - 213406.38270811792 RMSE
