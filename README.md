@@ -4,6 +4,10 @@
 
 # Home Price Estimation Model 🏠💰
 
+## Presentation slides ✨
+For presentational slides click here:
+https://prezi.com/view/ty5DTK1wD7QyTOdtUpS1/
+
 ## Overview
 Welcome to the Home Price Estimation Model, your go-to tool for accurate and data-driven home price predictions. Whether you're a homeowner looking to sell your property or a real estate agent striving for competitive pricing strategies, this model is here to empower you with actionable insights. 🚀
 
@@ -19,8 +23,6 @@ Setting the right price for your home can be a challenging task. Overpricing may
 ## Data Sources 📊
 Our model has been painstakingly trained on a diversified dataset of real estate transactions, guaranteeing that it can deliver reliable estimates across a wide range of property kinds and locations.
 
-## Presentation slides 
-https://prezi.com/view/ty5DTK1wD7QyTOdtUpS1/
 
 ## Objectives 🎯
 Our core objectives include:
